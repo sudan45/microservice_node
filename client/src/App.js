@@ -9,6 +9,7 @@ export default () => {
         <div className="container">
             <h1> Create the Post </h1>
             <CreatePost />
+            <h1> Post</h1>
             <PostList />
         </div>
 
