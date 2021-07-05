@@ -1,6 +1,6 @@
 import React from 'react';
-import PostCreate from './PostCreate';
-import PostList from './PostList';
+import PostCreate from './PostComponets/PostCreate'
+import PostList from './PostComponets/PostList';
 
 export default () => {
   return (
